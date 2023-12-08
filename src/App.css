@@ -1,0 +1,80 @@
+/*  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+  }
+
+ 
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+ 
+  .App-header {
+    background-color: #4CAF50;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: white;
+  }
+
+  
+  .App-link {
+    color: #61dafb;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+
+  .App-link:hover {
+    color: #4CAF50;
+  }
+
+
+  .product-list-container {
+    margin-top: 20px;
+  }
+
+  .product-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+
+  .product-table th, .product-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+
+  .product-table th {
+    background-color: #4CAF50;
+    color: rgb(8, 8, 8);
+  }
+
+  .product-table td {
+    background-color: #fff;
+  }
+
+
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }
+
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */

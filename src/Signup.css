@@ -1,0 +1,46 @@
+/* Responsive CSS for SignupForm component */
+
+.signup-container {
+    max-width: 400px;
+    margin-top: 180px;
+    margin-left: 500px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Media Query for Responsive Design */
+  @media (max-width: 600px) {
+    .signup-container {
+      max-width: 100%;
+    }
+  }
+  
